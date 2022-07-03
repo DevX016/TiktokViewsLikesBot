@@ -3,7 +3,7 @@ Tiktok View and Likes Bot You will need to get proxies from https://proxyscrape.
 
 First Step Run the program
 
-Then Paste the link to the video tiktok
+Then Paste the link to the video Tiktok
 
 Select your proxies folder
 
